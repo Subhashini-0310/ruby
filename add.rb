@@ -1,4 +1,4 @@
-#Program for addition of numbers
+#Program for addition of numbers.
 
 class Addition
   def  initialize(arg)    
